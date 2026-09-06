@@ -285,4 +285,11 @@ tr:hover .cut {
 .numeracion::before {
     counter-increment: contadorFila;
     content: counter(contadorFila);
+     width: 1%; /* Obliga a la columna a encogerse al mínimo necesario */
+    white-space: nowrap; /* Evita que el texto salte a una segunda línea */
+}
+/* En tu style.css */
+.columna-ajustada {
+    width: 1%; /* Obliga a la columna a encogerse al mínimo necesario */
+    white-space: nowrap; /* Evita que el texto salte a una segunda línea */
 }
