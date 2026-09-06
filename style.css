@@ -272,3 +272,13 @@ tr:hover .cut {
 .small-text {
     font-size: 60%;
 }
+/* Reinicia el contador cada vez que inicia la tabla */
+.inventory {
+    counter-reset: contadorFila;
+}
+
+/* Incrementa y muestra el número automáticamente en la celda */
+.numeracion::before {
+    counter-increment: contadorFila;
+    content: counter(contadorFila);
+}
