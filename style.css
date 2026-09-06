@@ -51,9 +51,9 @@ table {
 
 th, td {
     border: 1px solid #000; /* Añadido un borde sólido para todas las celdas */
-    padding: 0.5em;
+    padding: 0.2em;
     position: relative;
-    text-align: left;
+    text-align: center;
 }
 
 th {
