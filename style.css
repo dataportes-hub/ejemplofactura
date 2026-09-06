@@ -301,3 +301,7 @@ tr:hover .cut {
 .inv-col-fecha { width: 25%; }
 .inv-col-anclado { width: 10%; }
 .inv-col-obs { width: 25%; }
+
+tr:has(td.fecha:empty) {
+    background-color: yellow;
+  }
