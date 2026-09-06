@@ -303,5 +303,5 @@ tr:hover .cut {
 .inv-col-obs { width: 25%; }
 
 tr:has(td.fecha span:empty) td {
-    background-color: yellow !important;
+    background-color: yellow;
   }
