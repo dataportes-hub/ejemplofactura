@@ -302,6 +302,6 @@ tr:hover .cut {
 .inv-col-anclado { width: 10%; }
 .inv-col-obs { width: 25%; }
 
-tr:has(td.fecha:empty) {
-    background-color: yellow;
+tr:has(td.fecha:empty) td {
+    background-color: yellow !important;
   }
