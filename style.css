@@ -296,9 +296,9 @@ tr:hover .cut {
 /* Clases específicas por columna */
 .inv-col-cant { width: 5%; }
 .inv-col-chasis { width: 10%; }
-.inv-col-patio { width: 10%; }
+.inv-col-patio { width: 15%; }
 .inv-col-contenedor { width: 15%; }
-.inv-col-fecha { width: 25%; }
+.inv-col-fecha { width: 20%; }
 .inv-col-anclado { width: 10%; }
 .inv-col-obs { width: 25%; }
 
