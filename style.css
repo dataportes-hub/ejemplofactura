@@ -305,3 +305,24 @@ tr:hover .cut {
 tr:has(td.fecha span:empty) td {
     background-color: yellow;
   }
+
+/* table metafiltro */
+table.metafiltro {
+    float: right;
+    width: 50%;
+}
+
+table.metafiltro:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* table metafiltro */
+table.metafiltro th {
+    width: 30%;
+}
+
+table.metafiltro td {
+    width: 70%;
+}
