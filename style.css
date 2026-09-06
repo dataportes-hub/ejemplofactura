@@ -287,7 +287,7 @@ tr:hover .cut {
     content: counter(contadorFila);
      width: 1%; /* Obliga a la columna a encogerse al mínimo necesario */
     white-space: nowrap; /* Evita que el texto salte a una segunda línea */
-    padding: 8px 15px;
+    
 }
 /* En tu style.css */
 .columna-ajustada {
