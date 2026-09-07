@@ -304,9 +304,9 @@ tr:hover .cut {
 /* Clases específicas por columna de gestion filtrada */
 .inv-col-cantid { width: 3%; }
 .inv-col-chasis { width: 7%; }
-.inv-col-evento { width: 12%; }
+.inv-col-evento { width: 15%; }
 .inv-col-contenedor { width: 11%; }
-.inv-col-nombre { width: 7%; }
+.inv-col-nombre { width: 6%; }
 .inv-col-destino { width: 7%; }
 
 
