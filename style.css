@@ -301,6 +301,15 @@ tr:hover .cut {
 .inv-col-fecha { width: 20%; }
 .inv-col-anclado { width: 10%; }
 .inv-col-obs { width: 25%; }
+/* Clases específicas por columna de gestion filtrada */
+.inv-col-cantid { width: 3%; }
+.inv-col-chasis { width: 7%; }
+.inv-col-evento { width: 12%; }
+.inv-col-contenedor { width: 9%; }
+.inv-col-nombre { width: 10%; }
+.inv-col-destino { width: 5%; }
+
+
 
 tr:has(td.fecha span:empty) td {
     background-color: yellow;
