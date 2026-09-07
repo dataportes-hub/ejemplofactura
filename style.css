@@ -305,9 +305,9 @@ tr:hover .cut {
 .inv-col-cantid { width: 3%; }
 .inv-col-chasis { width: 7%; }
 .inv-col-evento { width: 12%; }
-.inv-col-contenedor { width: 9%; }
-.inv-col-nombre { width: 10%; }
-.inv-col-destino { width: 5%; }
+.inv-col-contenedor { width: 11%; }
+.inv-col-nombre { width: 7%; }
+.inv-col-destino { width: 7%; }
 
 
 
@@ -336,4 +336,4 @@ table.metafiltro td {
     width: 80%;
 }
 
-.columna-eventos { font-size: 10px; }
+.columna-eventos { font-size: 8px; }
