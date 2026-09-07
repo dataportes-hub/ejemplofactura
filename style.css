@@ -336,4 +336,6 @@ table.metafiltro td {
     width: 80%;
 }
 
-.columna-eventos { font-size: 5px !important; }
+.columna-eventos { font-size: 9px !important;
+                 transform: scale(0.5); transform-origin: center left; }
+                 }
