@@ -318,7 +318,7 @@ tr:has(td.fecha span:empty) td {
 /* table metafiltro */
 table.metafiltro {
     float: right;
-    width: 60%;
+    width: 80%;
 }
 
 table.metafiltro:after {
@@ -329,9 +329,9 @@ table.metafiltro:after {
 
 /* table metafiltro */
 table.metafiltro th {
-    width: 20%;
+    width: 10%;
 }
 
 table.metafiltro td {
-    width: 80%;
+    width: 90%;
 }
