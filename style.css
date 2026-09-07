@@ -191,7 +191,7 @@ table.inventory td {
 table { font-size: 75%; table-layout: fixed; width: 100%; }
 table { border-collapse: collapse; border-spacing: 2px; }
 th, td { border-width: 1px; padding: 0.5em; position: relative; text-align: left; }
-th, td { border-radius: 0.5em; border-style: solid; vertical-align: middle;}
+th, td { border-radius: 0.25em; border-style: solid; vertical-align: middle;}
 th { background: #EEE; border-color: #BBB; }
 td { border-color: #DDD; }
 
